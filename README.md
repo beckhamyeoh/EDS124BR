@@ -18,3 +18,5 @@ w 5 m 12: https://youtu.be/BveJA7avSag
 w 6 m 14: https://youtu.be/Q-357ionbpw
 
 w 7 m 17: https://youtu.be/Gqyy-wjM3Ho
+
+w 8 m 19: https://youtu.be/mBMPI463v30
